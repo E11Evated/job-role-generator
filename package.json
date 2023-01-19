@@ -1,0 +1,23 @@
+{
+    "name": "team-profile-generator",
+    "version": "1.0.0",
+    "description": "a Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest --watch",
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:E11Evated/job-role-generator.git"
+    },
+    "author": "John Schoppmann",
+    "license": "MIT",
+    "homepage": "",
+    "dependencies": {
+        "inquirer": "^8.2.4"
+    },
+    "devDependencies": {
+        "jest": "^29.2.2"
+    }
+}
