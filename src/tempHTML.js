@@ -21,7 +21,8 @@ const renderTeam = (team) => {
         `;
 
     // Create the engineer card with the data inputs
-    const renderEngineer = (engineer) => `
+    function renderEngineer(engineer) {
+        return `
                 <div class="card col-3 me-3 mb-5 employee-card">
                     <img src="${engineer.imgSrc}">
                     <div class="card-header employee-header">
@@ -43,6 +44,7 @@ const renderTeam = (team) => {
                     </div>
                 </div>
         `;
+    }
 
     // Create the intern card with the data inputs
     const renderIntern = (intern) => `

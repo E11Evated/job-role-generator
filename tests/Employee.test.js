@@ -1,5 +1,5 @@
 // Import Employee class from Employee file
-const Employee = require('../lib/Employee');
+const Employee = require('../lib/employee');
 
 // TEST OBJECT CREATION!
 
