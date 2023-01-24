@@ -37,7 +37,7 @@ name, employee ID, email address, path to stored img of employee, Managers can h
 
 2. Clone this repository into your local repository.
 
-   - `git clone git@github.com:TheInfamousGrim/team-profile-generator.git`.
+   - `git clone git@github.com:E11Evated/job-role-generator.git`.
 
 3. Install the dependencies
 
