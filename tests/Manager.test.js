@@ -16,7 +16,7 @@ const employeeInstance = new Manager(
 'John Smith',
 1234,
 'johnsmith@example.com',
-'./path/to/img.jpg',
+'assets\app_img\manager.jpg',
 testOfficeNumber
 );
 expect(employeeInstance.officeNumber).toBe(testOfficeNumber);
@@ -28,7 +28,7 @@ const employeeInstance = new Manager(
 'John Smith',
 1234,
 'johnsmith@example.com',
-'./path/to/img.jpg',
+'assets\app_img\manager.jpg',
 4
 );
 expect(employeeInstance.getRole()).toBe(returnValue);
@@ -42,7 +42,7 @@ const employeeInstance = new Manager(
 'John Smith',
 1234,
 'johnsmith@example.com',
-'./path/to/img.jpg',
+'assets\app_img\manager.jpg',
 testOfficeNumber
 );
 expect(employeeInstance.getOfficeNumber()).toBe(testOfficeNumber);

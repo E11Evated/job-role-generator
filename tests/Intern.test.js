@@ -18,7 +18,7 @@ const internInstance = new Intern(
 'John Smith',
 2697,
 'jsmith@email.com',
-'./../assets/app_imgs/default-intern.jpg',
+'assets\app_img\intern.jpg',
 testInstitution
 );
 expect(internInstance.school).toBe('University of Birmingham');
@@ -31,7 +31,7 @@ const internInstance = new Intern(
 'John Smith',
 2697,
 'jsmith@email.com',
-'./../assets/app_imgs/default-intern.jpg',
+'assets\app_img\intern.jpg',
 'University of Birmingham'
 );
 expect(internInstance.getRole()).toBe(returnValue);
@@ -46,7 +46,7 @@ const internInstance = new Intern(
 'John Smith',
 2697,
 'jsmith@email.com',
-'./../assets/app_imgs/default-intern.jpg',
+'assets\app_img\intern.jpg',
 testInstitution
 );
 expect(internInstance.getSchool()).toBe(testInstitution);
