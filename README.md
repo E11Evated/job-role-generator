@@ -58,6 +58,7 @@ node index.js
 <img src="https://s.gravatar.com/avatar/dab06605493afa6972d07fc273590cdc?s=200" alt="Gravatar Profile Picture" width="200" height="200">
 
 <a href="https://e11evated.github.io/myPortfolio/" target="_blank">**E11Evated**</a>, a highly passionate, focused; pragmatic software engineer 🧙‍♂️
+Honorable mentions: Instructor David Fuka, https://youtu.be/31LhQkLcZvE, https://github.com/TheInfamousGrim/team-profile-generator, https://github.com/Noemiegrau/team-profile-generator
 
 <h2 id="license">⚖️ License</h2>
 More details about the license can be found [here](https://opensource.org/licenses/MIT)(MIT).
